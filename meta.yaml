@@ -1,6 +1,6 @@
 ---
 title: Proposta de Texto DC
-bibliography: bibliography.bib
+bibliography: [bibliography.bib]
 link-citations: true
 csl: associacao-brasileira-de-normas-tecnicas.csl
 ---
