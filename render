@@ -1,0 +1,1 @@
+pandoc meta.yaml 01-proposta.md -t pdf -o 01-proposta.pdf --filter pandoc-citeproc
